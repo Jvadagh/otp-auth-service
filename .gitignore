@@ -1,0 +1,17 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+go.work.sum
+.idea/
+.vscode/
+*.iml
+*.log
+/internal/docs/*
+!/internal/docs/place_holder
+
+.env
